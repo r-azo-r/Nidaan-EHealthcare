@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sap">
+</Property><Property Name="Solution File" Value="C:\Users\Kshitij\Documents\Visual Studio 10\Projects\sap\sap.sln">
+</Property><Property Name="Date" Value="18 February 2010">
+</Property><Property Name="Time" Value="01:54">
+</Property></Properties><Event ErrorLevel="0" Project="sap" Source="sap\sap.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="sap" Source="sap\sap.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sap.Web" Source="sap.Web\sap.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="sap.Web" Source="sap.Web\sap.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="website" Source="..\saphv\website\" Description="Unable to open the Web site 'C:\Users\Kshitij\Documents\Visual Studio 10\Projects\saphv\website'.  The Web site 'C:\Users\Kshitij\Documents\Visual Studio 10\Projects\saphv\website' does not exist.">
+</Event><Event ErrorLevel="0" Project="" Source="sap.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="sap.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sap" Source="sap\sap.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="sap.Web" Source="sap.Web\sap.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
